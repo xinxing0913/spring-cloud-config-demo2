@@ -1,4 +1,3 @@
-user:
-    name: 辛星
-site:
-    name: 梦之都
+name: 辛星
+age: 22
+hobby: java
